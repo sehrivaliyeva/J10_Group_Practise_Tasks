@@ -13,7 +13,7 @@ import java.util.Deque;
 
 public class Task4 {
     public static void main(String[] args) {
-        String word = "anzfn;sjf;iajsfna";
+        String word = "anzfnjfiajsfna";
         isPolindrome(word);
 
 
